@@ -1,34 +1,35 @@
-<h1 align="center">Hi, I'm Shivpal Singh! 👋</h1>
+<h1 align="center">Hi 👋, I'm Shivpal Singh</h1>
+<h3 align="center">Aspiring Software Developer | Web Enthusiast | Cinematographer 🎬</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RedChargeXT&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=RedChargeXT&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
 
 ## 🚀 About Me  
+- 🎓 **Computer Science Student @ COEP Tech**  
+- 📢 **Alumni Outreach Coordinator | PSF'25**  
+- 💻 **Passionate Web Developer & Java Programmer**  
+- 🎬 **Cinematography & Video Editing Enthusiast**  
+- 🎵 **Music Lover & Creative Thinker**  
 
-🎓 **Computer Science Student @ COEP Tech**  
-📢 **Alumni Outreach Group Coordinator | PSF'25**  
-💻 **Web Developer | Java Programmer**  
-🎬 **Cinematography & Video Editing Enthusiast**  
-🎵 **Music Lover & Creative Thinker**  
-
-I enjoy building web applications, exploring new technologies, and working on innovative projects. Let's connect and create something amazing together!  
+💡 I enjoy building interactive web applications, exploring new technologies, and contributing to open source.  
+🌟 Always open to collaborations and exciting projects!  
 
 ---
 
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
 </p>
 
 ---
@@ -66,10 +67,14 @@ I enjoy building web applications, exploring new technologies, and working on in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedChargeXT&theme=radical" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RedChargeXT&theme=radical" width="90%">
+</p>
+
 ---
 
-### 🧐 Fun Fact  
+## 🎯 Fun Fact  
 
-*"A son asked his father (a programmer) why the sun rises in the east and sets in the west. His response? It works, don’t touch!"* 😆  
+> **_"A son asked his father (a programmer) why the sun rises in the east and sets in the west. His response? It works, don’t touch!"_** 😆  
 
-Looking forward to collaborating on exciting projects! 🚀  
+🚀 Looking forward to collaborating on exciting projects! Let's build something great together!  
