@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivpal Singh</h1>
-<h3 align="center">Aspiring Software Developer | Web Enthusiast | Cinematographer 🎬</h3>
+<h3 align="center">Aspiring Software Developer | Web Enthusiast | Cinematographer 🎮</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RedChargeXT&color=blue&style=for-the-badge" alt="Profile Views">
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me  
 - 🎓 **Computer Science Student @ COEP Tech**  
-- 📢 **Alumni Outreach Coordinator | PSF'25**  
+- 💁️ **Alumni Outreach Coordinator | PSF'25**  
 - 💻 **Passionate Web Developer & Java Programmer**  
-- 🎬 **Cinematography & Video Editing Enthusiast**  
+- 🎮 **Cinematography & Video Editing Enthusiast**  
 - 🎵 **Music Lover & Creative Thinker**  
 
 💡 I enjoy building interactive web applications, exploring new technologies, and contributing to open source.  
@@ -20,6 +20,36 @@
 ---
 
 ## 🛠 Tech Stack  
+
+### **Frontend Development:**
+- HTML5, CSS3, JavaScript (ES6+)
+- Flexbox, Grid
+- Bootstrap 5, Tailwind CSS
+- DOM Manipulation, jQuery
+- React.js, React Hooks
+- Web Design, Responsive Design
+
+### **Backend Development:**
+- Node.js, Express.js
+- REST APIs, Authentication (JWT, OAuth)
+- EJS (Embedded JavaScript)
+- WebSockets
+
+### **Databases & Storage:**
+- MySQL, PostgreSQL
+- Firebase (Firestore, Realtime Database)
+- MongoDB
+
+### **Version Control & Deployment:**
+- Git, GitHub, GitHub Pages
+- Bash Command Line
+- CI/CD, Docker
+
+### **Other Technologies:**
+- Web3 Development on the Internet Computer
+- Blockchain Technology
+- Token Contract Development
+- NFT Minting, Buying & Selling Logic
 
 <p align="center">
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
@@ -40,7 +70,7 @@
 🖥 A Java & MySQL-based banking system.  
 
 📌 **[Age Calculator](https://github.com/RedChargeXT/Age-Calculator-using-JS)**  
-📅 A simple JavaScript age calculator.  
+🗓 A simple JavaScript age calculator.  
 
 📌 **[DivideFlow](https://github.com/RedChargeXT/DivideFlow)**  
 ✅ A Firebase-powered task management app.  
